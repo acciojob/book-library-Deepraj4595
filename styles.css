@@ -22,8 +22,13 @@ h1{
 .book div{
 	height: 20px;
 	background-color: rgb(46, 204, 113);
+	color: rgb(255, 255, 255);
+	border-radius: 6px;
 }
-.author{
+div{
+	color: white;
+}
+p{
 	color: #777777;
 }
 .price{
